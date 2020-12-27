@@ -73,7 +73,7 @@ void Update()
 Through this methodology, I learned a very specialized skillset in Unity and C# that can be applied to first person games. This skillset includes the use of GameObject, raycasting, usage of
 quaternions, transforms, and Vector3 objects. I also got to apply my knowledge in kinematics and see how it would fit in the frame of game design. For example, in my `ChangeGravity()` function, I managed to implement this equation:
 
-![latex](http://www.sciweavers.org/upload/Tex2Img_1609047209/render.png)
+![latex](http://www.sciweavers.org/upload/Tex2Img_1609047344/render.png)
 
 as shown below:
 
