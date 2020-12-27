@@ -24,7 +24,7 @@ I used a six step process:
 5. Debug.
 6. Repeat.
 
-One of the first hurdles I had to overcome was implementing first person mechanics, by using my six step process, I managed to write a function that lets the player look around:
+One of the first hurdles I had to overcome was implementing a first person mechanism. By using my six step process, I managed to write a function that lets the player look around:
 
 ```
 void Update()
