@@ -1,26 +1,19 @@
 # Kinematics Learning Game
 
 ## Project Overview
-This is a unity power web browser game intended to teach high schoolers and middle schoolers some of the basics of Kinematics. It is part of a STEM workshop called "Seeds in Stem"
-which runs for students in the Santa Maria Unified School District every winter. This project is for the Winter 2021 workshop.
-<img src="/image/link/to/file">
+This is a Unity powered web browser game intended to teach high schoolers and middle schoolers some of the basics of kinematics. It is part of a STEM workshop called "Seeds in Stem" which runs for students in the Santa Maria Unified School District every winter. This project is for the Winter 2021 workshop.
 
 ## Motivations and Goals
-What was the context of building this project? What were you looking to learn? Was this for a class?
 
-This was part of a project based learning class. I was assigned to a team, and our goal was to design and schedule one third of the workshop. While brainstorming ideas for the workshop,
-I proposed the idea of creating a video game to teach basic kinematics through the narrative of a space ranger altering the net force acting on them by using a jetpack.
+This was part of a project-based learning class. I was assigned to a team, and our goal was to design and schedule one third of the workshop. While brainstorming ideas for the workshop, I proposed the idea of creating a video game to teach basic kinematics through the narrative of a space ranger altering the net force acting on them by using a jetpack.
 
 ## Challenges
 
 ### Unity and C# learning curve
 
-The main challenge was learning C# and Unity. I didn't know any C# or Unity at the time, so I felt overwhelmed. I was also on an Agile project management schedule, so I had two weeks to 
-display results.
+The main challenge was learning C# and Unity. I didn't know any C# or Unity at the time, so I felt overwhelmed. I was also on an Agile project management schedule, so I had two weeks to display tangible results. For examples, I had a lot of difficulty figuring out how to implement first person view
 
 **My Approach**
-
-What did you do to tackle this challenge? Walk us through the steps yo
 
 I used a six step process:
 
@@ -78,7 +71,7 @@ void Update()
 **Result**
 
 Through this methodology, I learned a very specialized skillset in Unity and C# that can be applied to first person games. This skillset includes the use of GameObject, raycasting, usage of
-quaternions, transforms, and Vector3 objects. I also got to apply my knowledge in kinematics and see how it would fit in the frame of game design. This can be seen in my `ChangeGravity()` function.
+quaternions, transforms, and Vector3 objects. I also got to apply my knowledge in kinematics and see how it would fit in the frame of game design. For example, in my `ChangeGravity()` function, I'.
 
 ```
 public void ChangeGravity(){
@@ -88,11 +81,5 @@ public void ChangeGravity(){
         jumpHeight = (velocity.y * velocity.y) / (-2f * -9.81f);
     }
 ```
-
-
-
-## How to use this program
-**OPTIONAL** 
-Include how to download and install dependancies. Here would also be a good place to define anything that is currently WIP. 
 
 
