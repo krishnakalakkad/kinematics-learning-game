@@ -1,7 +1,7 @@
 # Kinematics Learning Game
 
 ## Project Overview
-This is a Unity powered web browser game intended to teach high schoolers and middle schoolers some of the basics of kinematics. It is part of a STEM workshop called "Seeds in Stem" which runs for students in the Santa Maria Unified School District every winter. This project is for the Winter 2021 workshop.
+This is a Unity powered game intended to teach high schoolers and middle schoolers some of the basics of kinematics. It is part of a STEM workshop called "Seeds in Stem" which runs for students in the Santa Maria Unified School District every winter. This project is for the Winter 2021 workshop.
 
 ## Motivations and Goals
 
@@ -11,7 +11,7 @@ This was part of a project-based learning class. I was assigned to a team, and o
 
 ### Unity and C# learning curve
 
-The main challenge was learning C# and Unity. I didn't know any C# or Unity at the time, so I felt overwhelmed. I was also on an Agile project management schedule, so I had two weeks to display tangible results. For examples, I had a lot of difficulty figuring out how to implement first person view
+The main challenge was learning C# and Unity. I was also on an Agile project management schedule, so I had two weeks to display tangible results. For examples, I had a lot of difficulty figuring out how to implement first person view
 
 **My Approach**
 
