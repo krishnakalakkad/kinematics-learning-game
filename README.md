@@ -11,7 +11,7 @@ This was part of a project-based learning class. I was assigned to a team, and o
 
 ### Unity and C# learning curve
 
-The main challenge was learning C# and Unity. I was also on an Agile project management schedule, so I had two weeks to display tangible results. For examples, I had a lot of difficulty figuring out how to implement first person view
+The main challenge was learning C# and Unity. I was also on an Agile project management schedule, so I had two weeks to display tangible results. 
 
 **My Approach**
 
@@ -24,7 +24,7 @@ I used a six step process:
 5. Debug.
 6. Repeat.
 
-This method is how I wrote my function that lets the player look around:
+One of the first hurdles I had to overcome was implementing first person mechanics, by using my six step process, I managed to write a function that lets the player look around:
 
 ```
 void Update()
